@@ -1,0 +1,10 @@
+warn: Microsoft.AspNetCore.Server.Kestrel[64]
+      HTTP/2 is not enabled for 127.0.0.1:14544. The endpoint is configured to use HTTP/1.1 and HTTP/2, but TLS is not enabled. HTTP/2 requires TLS application protocol negotiation. Connections to this endpoint will use HTTP/1.1.
+info: Microsoft.Hosting.Lifetime[14]
+      Now listening on: http://127.0.0.1:14544
+info: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Production
+info: Microsoft.Hosting.Lifetime[0]
+      Content root path: C:\inetpub\wwwroot\app\Servicio
